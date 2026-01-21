@@ -68,7 +68,7 @@ class CarLoggerApp:
         # Информация о версии
         version_label = tk.Label(
             self.root,
-            text="Версия 1.1",
+            text="Версия 1.0",
             font=("Arial", 8),
             fg="gray",
             bg="white"
