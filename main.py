@@ -12,7 +12,7 @@ class CarLoggerApp:
     def __init__(self):
         self.db = Database()
         self.root = tk.Tk()
-        self.setup_windows_style()  # Добавьте эту строку
+        self.setup_windows_style()
         self.setup_ui()
 
     def setup_windows_style(self):

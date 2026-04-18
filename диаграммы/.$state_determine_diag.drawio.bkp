@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="V8bE6qYKsrzkr2FZ3RaI">
+    <mxGraphModel dx="763" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="305" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yQAr4GKY3VNJcSXwCRGz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="140" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="230" as="sourcePoint" />
+            <mxPoint x="305" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="230" as="sourcePoint" />
+            <mxPoint x="425" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="730" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-8" value="Последнее&lt;div&gt;обслуживание&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="103" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-10" value="Необходимо выполнить&lt;div&gt;данную процедуру ТО&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="98" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-11" value="С этого&lt;div&gt;момента будет&lt;/div&gt;&lt;div&gt;высвечиваться&lt;/div&gt;&lt;div&gt;предупреждение&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="73" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="425" y="170" width="255" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-13" value="&quot;В норме&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="185" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-14" value="&quot;Скоро потребуется&lt;div&gt;обслуживание&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-15" value="&quot;Требуется обслуживание&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="185" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-16" value="пробег, км" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-17" value="x" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-18" value="x + (1 -&amp;nbsp;&lt;div&gt;&quot;допуск&quot; / 100 * &quot;период&quot;)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="225" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yQAr4GKY3VNJcSXwCRGz-19" value="x + &quot;период&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
